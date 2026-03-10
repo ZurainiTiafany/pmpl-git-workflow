@@ -19,6 +19,8 @@ $title = "Git Workflow Simulation";
 
     <p>Halaman ini dibuat untuk membahas perekonomian</p>
 
+    <p>Perekonomian adalah sistem, aturan, dan aktivitas menyeluruh yang mencakup produksi, distribusi, perdagangan, dan konsumsi barang serta jasa di suatu wilayah atau negara</p>
+
     <button onclick="showMessage()">Klik Saya</button>
 
     <script src="script.js"></script>
