@@ -23,6 +23,10 @@ $title = "Git Workflow Simulation";
 
     <button onclick="showMessage()">Klik Saya</button>
 
+    <footer>
+        <p>PMPL - Kelompok 5</p>
+    </footer>
+
     <script src="script.js"></script>
 </body>
 </html>
